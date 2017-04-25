@@ -35,7 +35,7 @@ add = student3.address;
 System.out.println("Address : "+add);
 
 int res3 = student3.result(90, 75, 69);
-System.out.println("The result of "+nm3+ " in Physics Chemistry and Maths is "+res3+" out of 300 marks");
+System.out.println("The result of "+nm3+ " in Physics Chemistry and Maths is "+res3+" out of 300 marks" );
    System.out.println("---------------------------------------------------------------------------------");
    System.out.println("---------------------Ranking Order-----------------------");
  if ((res1 > res2) || (res1 > res3)) 
