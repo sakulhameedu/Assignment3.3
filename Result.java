@@ -43,7 +43,7 @@ System.out.println("The result of "+nm3+ " in Physics Chemistry and Maths is "+r
   System.out.println("Rank 1 was taken by:"+nm1);
  }
  else if ((res2 > res3) || (res2 > res1))
- {																					//ranking all three students
+ {																					//ranking all three students based on marks
      System.out.println("Rank 1 was taken by:"+nm2);
  }
  else 
